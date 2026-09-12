@@ -1,4 +1,6 @@
-# caelestia
+# Selestis
+> **Note**  
+> This project is an independent fork and modification of the [Caelestia](https://github.com/caelestia-dots) ecosystem, licensed under the GNU General Public License v3.0.
 
 This is the main repo of the Caelestia dotfiles and contains user configs for
 various apps.
